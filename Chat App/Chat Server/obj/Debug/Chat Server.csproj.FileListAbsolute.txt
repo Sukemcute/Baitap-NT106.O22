@@ -1,0 +1,20 @@
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.Form1.resources
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.exe.config
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.exe
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.pdb
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.exe
+C:\Users\Acer\Source\Repos\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.pdb
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.exe.config
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.exe
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\bin\Debug\Chat_Server.pdb
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.Form1.resources
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.GenerateResource.cache
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.exe
+C:\Users\ADMIN\Tài liệu\Downloads\Chat-App-Project\Chat-App-Project\Chat Server\obj\Debug\Chat_Server.pdb
